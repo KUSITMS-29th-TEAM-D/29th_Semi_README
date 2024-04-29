@@ -117,16 +117,7 @@
 
 ### **📗 Server**
 
-<img src="https://img.shields.io/badge/JDK 17-007396?style=flat-square&logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring boot 3.2.4-6DB33F?style=flat-square&logo=springboot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-FC494A?style=flat-square&logo=jsonwebtokens&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JDK 17-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot 3.2.4-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/Spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/JWT-FC494A?style=flat-square&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
 **`Spring Boot`**
   - 설정이 간소화되고 개발 생산성이 향상되는 스프링 기반의 프레임워크로, 내장된 톰캣과 같은 서버를 사용하여 애플리케이션을 간단히 배포할 수 있습니다.
@@ -159,11 +150,7 @@
 
 ### **🗣️ Co-working-Tool**
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
 <br><br>
 
